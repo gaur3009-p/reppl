@@ -1,4 +1,4 @@
-# Drone Security Analyst Agent (AI Engineer Assignment)
+# Drone Security Analyst Agent
 
 ## Overview
 
